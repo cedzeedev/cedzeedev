@@ -3,8 +3,8 @@
 - 🌱 I am currently creating a website, more details very soon ;)
 - 📫 You can contact me using discord (cedzee)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I started coding on scratch when I was 10 years old
+- ⚡ Fun fact: I started coding with the Scratch Cat when I was 10 years old
 
 - Languages ​​I know:
   HTML, CSS, PHP, Python, GDScript, Arduino C++
-  Im currently learning Javascript (and to improve my skills in C++ and GDScript)
+  Im currently learning gamedev and php
